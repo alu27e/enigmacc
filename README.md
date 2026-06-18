@@ -4,7 +4,7 @@ Hey there,  I have "recently" been blessed by the beauty of [enigmatics](https:/
 
 <br>
 
-`enigmacc` picks a random playable puzzle from enigmatics for a user to solve. It will the bless you with a pink !@)@#&%@$@ and a "#(?%#&#@ message.
+`enigmacc` picks a random playable puzzle from enigmatics for a user to solve.  It will then bless you with a pink !@)@#&%@$@ and a "#(?%#&#@ message.
 
 <br>
 
