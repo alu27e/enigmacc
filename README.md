@@ -6,6 +6,8 @@ Hey there,  I have "recently" been blessed by the beauty of [enigmatics](https:/
 
 `enigmacc` picks a random playable puzzle from enigmatics for a user to solve. It will the bless you with a pink !@)@#&%@$@ and a "#(?%#&#@ message.
 
+<br>
+
 ```sh
 gcc -O2 enigmacc.c -o enigmacc
 ./enigmacc <user>
